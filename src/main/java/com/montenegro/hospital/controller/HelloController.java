@@ -1,4 +1,4 @@
-package com.montenegro.hospital;
+package com.montenegro.hospital.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

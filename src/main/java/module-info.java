@@ -5,4 +5,6 @@ module com.montenegro.hospital {
 	
 	opens com.montenegro.hospital to javafx.fxml;
 	exports com.montenegro.hospital;
+	exports com.montenegro.hospital.controller;
+	opens com.montenegro.hospital.controller to javafx.fxml;
 }
